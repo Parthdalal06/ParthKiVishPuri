@@ -1,0 +1,111 @@
+{
+  "name": "#ParthkiVishpuri",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "Welcome to the wedding of",
+  "headerTaglineThree": "Parth and Vishakha.",
+  "headerTaglineFour": " Let us take you to their journey.",
+  "showCursor": false,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": false,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/chetanverma16"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/chetanverma7/"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "https://twitter.com/realchetanverma"
+    },
+    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
+    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Mandap Muhrat",
+      "description": "Start of this auspicious event with Ganesh Maaye - 9:30 AM",
+      "imageSrc": "https://i.pinimg.com/originals/df/7a/c3/df7ac32ca67a39a812bbe7b7b69f1a28.jpg",
+      "url": ""
+    },
+    {
+      "id": "2",
+      "title": "Haldi",
+      "description": "So much yellow, fun, and excitement all in one capture - 12:30 PM",
+      "imageSrc": "/images/parthvishakhahaldi.png",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "3",
+      "title": "Sangeet Ceremony",
+      "description": "“Sparkles & Dances ✨💃#FeelTheRhythm” - 7PM" ,
+      "imageSrc": "/images/parthvishakhasangeet.png",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "4",
+      "title": "Hasth Melap - Shadi ",
+      "description": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage - 12:30 PM",
+      "imageSrc": "/images/parthvishakhawedding.png",
+      "url": "http://chetanverma.com/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Leh-Ladakh",
+      "description": "Time stopped when we first met, I saw an angel walking by me, and I could not even breathe."
+    },
+    {
+      "id": "2",
+      "title": "KedarKantha Trek",
+      "description": "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. But i met her again and we lived the world without wifi together beating the snowcapped mountains!!"
+    },
+    {
+      "id": "3",
+      "title": "Spiti,Goa...and so on!!",
+      "description": "Actually, the best gift we can gift each other is lifetime of adventures."
+    },
+    {
+      "id": "4",
+      "title": "Happily ever after",
+      "description": "We combined our travel experience with life to bring best of us together. The magic is as wide as a smile and as narrow as a wink, loud as laughter and quiet as a tear, tall as a tale and deep as emotion. So strong, it can lift the spirit. So gentle, it can touch the heart. It is the magic that begins the happily ever after."
+    }
+  ],
+  "aboutpara": "MR11 Rd, opp. Goyal Greens, near Golden Leaves hotel, Nipania, Indore, Madhya Pradesh 452010",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
