@@ -39,21 +39,21 @@
       "id": "2",
       "title": "Haldi",
       "description": "So much yellow, fun, and excitement all in one capture - 12:30 PM",
-      "imageSrc": "/images/parthvishakhahaldi.png",
+      "imageSrc": "./images/parthvishakhahaldi.png",
       "url": "http://chetanverma.com/"
     },
     {
       "id": "3",
       "title": "Sangeet Ceremony",
       "description": "“Sparkles & Dances ✨💃#FeelTheRhythm” - 7PM" ,
-      "imageSrc": "/images/parthvishakhasangeet.png",
+      "imageSrc": "./images/parthvishakhasangeet.png",
       "url": "http://chetanverma.com/"
     },
     {
       "id": "4",
       "title": "Hasth Melap - Shadi ",
       "description": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage - 12:30 PM",
-      "imageSrc": "/images/parthvishakhawedding.png",
+      "imageSrc": "./images/parthvishakhawedding.png",
       "url": "http://chetanverma.com/"
     }
   ],
