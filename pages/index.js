@@ -133,7 +133,7 @@ export default function Home() {
           <h1 className="tablet:m-10 text-2xl text-bold">Location.</h1>
           <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
             {data.aboutpara}
-            <img src="/images/map.jpg" style={{height:"500px"}}></img>
+            <img src="./images/map.jpg" style={{height:"500px"}}></img>
             <a href="https://goo.gl/maps/aBRA1yurkX9wHztJA" style={{textDecoration:"underline"}}>click here to go to Google Maps</a>
           </p>
         </div>
