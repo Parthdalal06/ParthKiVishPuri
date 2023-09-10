@@ -17,7 +17,7 @@ const Footer = ({}) => {
               TOGETHER
             </h1>
             {/* <Button type="primary">Schedule a call</Button> */}
-            <img src="/images/uploadqrcode.jpeg" style={{height:"150px"}}></img>
+            <img src="./images/uploadqrcode.jpeg" style={{height:"150px"}}></img>
             <div className="mt-10">
               {/* <Socials /> */}
             </div>
